@@ -1,0 +1,205 @@
+@media (max-width: 1186px) {
+    .logo {
+        width: 100%;
+        height: auto;
+    }
+
+    .socialmedialinks img {
+        height: 29px;
+        width: 29px;
+    }
+
+    #logo1 { 
+        display: block; 
+    }
+    #logo2 { 
+        display: none; 
+    }
+}
+
+
+@media (max-width: 1115px) {
+   
+    .clh {
+        padding-top: 2.5px;
+        padding-bottom: 2.5px;
+    }   
+    #logo1 { 
+        display: block; 
+    }
+    #logo2 { 
+        display: none; 
+    }
+}
+
+@media (max-width: 800px) {
+    nav ul li {
+        box-sizing: border-box;
+        width: 100%;
+        padding: 0;
+    }
+    .socialmedialinks ul li {
+        box-sizing: border-box;
+        width: 100%;
+        padding: 0;
+    }
+    #logo1 { 
+        display: block; 
+    }
+    #logo2 { 
+        display: none; 
+    }
+    .recentwork {
+        display: block;
+        padding: 0px;
+    }
+    
+    .headingtitle {
+        border-top: 1px solid rgb(230, 230, 230);
+        padding-top: 30px;
+    }
+
+    .block {
+        padding-bottom: 30px;
+    }
+
+    header h1 {
+        line-height: 35px;
+    }
+
+
+
+
+}
+
+
+@media (max-width: 768px) {
+    nav a {
+        font-size: 20px;
+    }
+    #logo1 { 
+        display: block; 
+    }
+    #logo2 { 
+        display: none; 
+    }
+    .navigationpane {
+        padding-top: 40%;
+}
+    #logo1 { 
+    display: none; 
+}
+    #logo2 { 
+    display: block; 
+    height: 80px;
+    width: 80px;
+    padding-left: 50px;
+}
+
+
+@media (max-width: 600px) {
+    #logo1 { 
+        display: none; 
+    }
+    #logo2 { 
+        display: block; 
+        height: 80px;
+        width: 80px;
+        padding-left: 28px;
+    }
+    h3 {
+        font-size: 17px;
+    }
+}
+
+@media (max-width: 420px) {
+    #logo2 { 
+        padding-left: 5px;
+    }
+    
+}
+@media (max-width: 415px) {
+ 
+}
+@media (max-width: 411px) {
+    
+}
+
+@media (max-width: 388px) {
+    h3 {
+        font-size: 14px;
+    }
+}
+
+
+@media (max-width: 375px) {
+    #logo2 {
+        display: block; 
+        height: 60px;
+        width: 60px;
+        padding-left: 15px;
+    }
+    nav a {
+        font-size: 20px;
+        line-height: 32px;
+    }
+
+    h1 {
+        font-size: 30px;
+        line-height: 35px;
+    }
+
+    p {
+        font-size: 18px;
+        padding: 6px;
+        line-height: 28px;
+    }
+    h3 {
+        font-size: 12px;
+    }
+
+    .aboutme {
+        padding: 0;
+    }
+
+    #skills, #intrapersonal {
+        padding-right: 25%;
+        width: 80%;
+        line-height: 20px;
+    }
+    .techskills {
+        border-left: none;
+        font-size: 14px; 
+    }
+
+    .otherskills {
+        border-left: none;
+        font-size: 14px;
+    }
+
+    .recentwork {
+        display: block;
+        padding: 0px;
+    }
+
+    .headingtitle {
+        border-top: 1px solid rgb(230, 230, 230);
+        padding-top: 30px;
+    }
+
+    .block {
+        padding-bottom: 30px;
+    }
+
+    .projborder {
+        width: 80%;
+    }
+
+    .workdescription {
+        width: 75%;
+    }
+
+    .navigationpane {
+        padding-top: 10%;
+    }
+}
